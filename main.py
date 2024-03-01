@@ -6,4 +6,4 @@ def bye():
     return "bye"
 
 
-return(hello())
+print(hello())
